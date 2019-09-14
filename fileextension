@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+	<section id="fileextension">
+		<h2>File Extension</h2>
+		<p>File extensions are the 3-4 letters (although they can be longer) we’re used to seeing after the period following a file name. .DOCX, .JPG, and .PDF are all examples. The file extension tells the computer what program to open the file in.
+			<cite>Definition adapted from <a href="https://techterms.com/definition/fileextension">Christensson, Per. "File Extension Definition." TechTerms. Sharpened Productions, 05 November 2012. Web. 14 September 2019.</a> by <span class="contributor">Olivia Carey</span>
+				</cite>
+				</p>
+</section>
+</body>

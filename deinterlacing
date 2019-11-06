@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<body>
+	<section id="deinterlacing">
+		<h2>Deinterlacing</h2>
+		<p>Deinterlacing is converting interlaced video (two fields of video displaying smoothly) in non-interlaced video, which means the display isn’t as smooth and may be prone to flickering.
+			<cite>Definition adapted from <a href="https://web.archive.org/web/20050830164206/http://www.theprojectorpros.com/learn.php?s=learn&p=theater_pulldown_deinterlacing">“3:2 Pulldown and Deinterlacing.” Projector Pros - Deinterlacing Progressive Scan Images Video Projector Technology Display Devices, ADTECH Systems and The Projector Pros., 2005, web.archive.org/web/20050830164206/www.theprojectorpros.com/learn.php?s=learn&amp;p=theater_pulldown_deinterlacing.</a> by <span class="contributor">Olivia Carey</span>
+				</cite>
+				</p>
+</section>
+</body>
